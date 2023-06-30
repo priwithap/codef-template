@@ -51,8 +51,8 @@ A template to follow is in `src/pages/blog/articles/template.md`
 ```
 ---
 layout: required
-title: required
-date: required
+title: optional
+date: optional
 image?: optional
 imageDescription?: optional
 description: required;
